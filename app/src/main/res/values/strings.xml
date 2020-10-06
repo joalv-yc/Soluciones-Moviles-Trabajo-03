@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabajo03</string>
+    <string name="tv_pregunta">¿Qué pelicula te gusta más?</string>
+    <string name="btn_Votar">Mostrar Ganador</string>
+    <string name="txt_voto1">0</string>
+    <string name="txt_voto2">0</string>
+    <string name="txt_ganador">0</string>
+
+</resources>
